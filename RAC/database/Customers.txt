@@ -1,0 +1,6 @@
+Kemal;Memal;keMalAbi;kemal@gmail.com;pass;05459876635
+Mehtap;Öter;otmezz;mehtap@hotmail.com;pass;05426974560
+Hasan;Korkmaz;korkakHasan;korkmaz@gmail.com;hasan123;05319422456
+Halil;Şapuk;shapukk;shapuk@gmail.com;halil123;05360541735
+Cemil;Dalar;43dalar;43dalar@gmail.com;1234;05459233576
+cemil;dalar;dalar;1234@gmail.com;1234;05459233576
